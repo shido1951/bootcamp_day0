@@ -3253,3 +3253,598 @@ Request URL: /cake_day1/bootstrap.min.js
 Stack Trace:
 #0 /Applications/MAMP/htdocs/cake_day1/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2015-08-07 07:27:05 Error: [MissingControllerException] Controller class Browserconfig.xmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Browserconfig.xmlController',
+  'plugin' => NULL,
+)
+Request URL: /browserconfig.xml
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 07:31:45 Error: Fatal Error (1): Call to undefined method View::elements() in [C:\xampp\htdocs\bootcamp_day0\app\View\Layouts\default.ctp, line 7]
+2015-08-07 07:31:45 Error: [FatalErrorException] Call to undefined method View::elements()
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-07 07:31:56 Error: Fatal Error (1): Call to undefined method View::elements() in [C:\xampp\htdocs\bootcamp_day0\app\View\Layouts\default.ctp, line 7]
+2015-08-07 07:31:56 Error: [FatalErrorException] Call to undefined method View::elements()
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-07 07:33:57 Error: Fatal Error (1): Call to undefined method View::elements() in [C:\xampp\htdocs\bootcamp_day0\app\View\Layouts\default.ctp, line 8]
+2015-08-07 07:33:58 Error: [FatalErrorException] Call to undefined method View::elements()
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-07 07:33:59 Error: Fatal Error (1): Call to undefined method View::elements() in [C:\xampp\htdocs\bootcamp_day0\app\View\Layouts\default.ctp, line 8]
+2015-08-07 07:33:59 Error: [FatalErrorException] Call to undefined method View::elements()
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-07 07:34:42 Error: Fatal Error (1): Call to undefined method View::elements() in [C:\xampp\htdocs\bootcamp_day0\app\View\Layouts\default.ctp, line 8]
+2015-08-07 07:34:42 Error: [FatalErrorException] Call to undefined method View::elements()
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-07 07:34:43 Error: Fatal Error (1): Call to undefined method View::elements() in [C:\xampp\htdocs\bootcamp_day0\app\View\Layouts\default.ctp, line 8]
+2015-08-07 07:34:43 Error: [FatalErrorException] Call to undefined method View::elements()
+Request URL: /
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-07 10:17:23 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:18:02 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:18:13 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:21:43 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:23:35 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:24:21 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:35:50 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:36:23 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:36:53 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:37:23 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:38:01 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:38:18 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:38:58 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:40:08 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:40:40 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:42:38 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:43:02 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:44:17 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:49:26 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:52:07 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:53:32 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:53:50 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:54:36 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:55:52 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:56:33 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:56:48 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:56:56 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:58:13 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 10:59:09 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:09:34 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:09:38 Error: [MissingActionException] Action TopicsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopicsController',
+  'action' => 'view',
+)
+Request URL: /topics/view
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TopicsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 11:09:38 Error: [MissingActionException] Action TopicsController::bootstrap.min.js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopicsController',
+  'action' => 'bootstrap.min.js',
+)
+Request URL: /topics/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TopicsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 11:10:01 Error: [MissingControllerException] Controller class CakeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeController',
+  'plugin' => NULL,
+)
+Request URL: /cake/categories/view1
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:10:01 Error: [MissingControllerException] Controller class CakeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeController',
+  'plugin' => NULL,
+)
+Request URL: /cake/categories/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:17:01 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:17:59 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:23:12 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:31:30 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:32:19 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:32:57 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:32:58 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:33:49 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:34:06 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:34:07 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:34:39 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:34:41 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:35:08 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:48:46 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:50:36 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:55:18 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:57:51 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:57:53 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:58:19 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:59:31 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 11:59:41 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 12:04:33 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 12:06:25 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 12:07:09 Error: [MissingControllerException] Controller class Bootstrap.min.jsController could not be found.
+Exception Attributes: array (
+  'class' => 'Bootstrap.min.jsController',
+  'plugin' => NULL,
+)
+Request URL: /bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
